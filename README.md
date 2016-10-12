@@ -12,3 +12,12 @@ pip install git+git://github.com/SpiderOak/flowbot-barebones.git@master
 ```
 pip install git+ssh://git@github.com/SpiderOak/flowbot-barebones.git@master
 ```
+
+## Settings
+Currently, settings are read directly from environment variables. You can change
+them by editing the `run.sh` script file.
+
+## Running
+```
+. run.sh
+```
