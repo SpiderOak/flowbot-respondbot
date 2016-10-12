@@ -3,7 +3,7 @@ from flowbot import mentioned, admin_only
 
 
 class RespondBot(FlowBot):
-    """Respond bot can responds to a few commands."""
+    """Respond bot can respond to a few commands."""
 
     def commands(self):
         return {
