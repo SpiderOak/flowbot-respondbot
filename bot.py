@@ -1,5 +1,5 @@
 from flowbot import FlowBot
-from flowbot import mentioned, admin_only
+from flowbot.decorators import mentioned, admin_only
 
 
 class RespondBot(FlowBot):
