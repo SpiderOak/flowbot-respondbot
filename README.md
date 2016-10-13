@@ -19,5 +19,5 @@ them by editing the `run.sh` script file.
 
 ## Running
 ```
-. run.sh
+python run.py
 ```
