@@ -2,4 +2,7 @@
   "username": "RespondBot2020",
   "password": "MyBotsSuperSecretPassword",
   "org_id": "ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+  "display_name": "RespondBotForever",
+  "biography": "I'm just a poor bot; nobody loves me...",
+  "photo": "avatar.png"
 }
