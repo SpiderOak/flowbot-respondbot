@@ -1,8 +1,8 @@
 {
-  "username": "RespondBot2020",
+  "username": "RespondBot-v2",
   "password": "MyBotsSuperSecretPassword",
-  "org_id": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-  "display_name": "RespondBotForever",
+  "org_id": "TEAMIDWHATEVERITIS",
+  "display_name": "respondbot",
   "biography": "I'm just a poor bot; nobody loves me...",
   "photo": "avatar.png"
 }
