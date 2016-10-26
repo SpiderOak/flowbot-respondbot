@@ -5,7 +5,7 @@
 This is an example of how to use the [flowbot](https://github.com/SpiderOak/flowbot) boilerplate to build bots for Semaphor.
 
 ## Run inside a Docker container
-1. Make sure you have docker running locally
+1. Make sure you have [Docker](https://www.docker.com/products/docker) installed.
 2. Clone this repo: `git clone git@github.com:SpiderOak/flowbot-respondbot.git`
 3. Update the `settings.json` file with your desired bot settings.
   - `username` **required**: the username of your desired bot; Semaphor usernames must be unique.  
