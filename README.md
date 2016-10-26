@@ -21,7 +21,9 @@ This is an example of how to use the [flowbot](https://github.com/SpiderOak/flow
 A docker container will be built with the `respondbot` running inside it; once the bot is up and running you should receive a join request from your bot to the team specified in the `settings.json` file. After you've accepted the join request, feel free to add the bot to any channels you'd like.
 
 
-## Download & Install Locally
+## Run Locally
+If you don't want to run your bot inside a docker container, you can always run it locally:
+
 1. Make sure you've installed [SpiderOak Semaphor](https://spideroak.com/opendownload) on your machine.
 2. Clone this repo: `git clone git@github.com:SpiderOak/flowbot-respondbot.git`
 3. Install dependencies: `pip install -r requirements.txt`
