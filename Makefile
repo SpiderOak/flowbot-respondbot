@@ -2,7 +2,7 @@ all: install_flowbot build run
 
 install_flowbot:
 	# Remove this when flowbot becomes public, this just installs the
-	# boilerplate bot alongside the github bot so that it can be imported as if
+	# boilerplate bot alongside the respondbot so that it can be imported as if
 	# it were installed.
 	rm -rf flowbot
 	rm -rf flowbot_tmp
