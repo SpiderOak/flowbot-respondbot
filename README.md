@@ -1,3 +1,6 @@
+> Please Note: This project has not undergone a security review.
+
+
 # flowbot-respondbot
 This is an example of how to use the [flowbot](https://github.com/SpiderOak/flowbot) boilerplate to build bots for Semaphor.
 
