@@ -1,5 +1,5 @@
 # flowbot-respondbot
-This is an example of how to use the flowbot-barebones boilerplate to build bots for Semaphor.
+This is an example of how to use the [flowbot](https://github.com/SpiderOak/flowbot) boilerplate to build bots for Semaphor.
 
 ## Download & Install
 1. Make sure you've installed [SpiderOak Semaphor](https://spideroak.com/opendownload) on your machine.
